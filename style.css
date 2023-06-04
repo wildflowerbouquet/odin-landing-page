@@ -1,0 +1,88 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    height: 50px;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.logo {
+
+}
+
+.navigation {
+
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    gap: 20px;
+}
+
+.intro .text {
+    color: white;
+}
+
+.button {
+    
+}
+
+.intro .image {
+
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.info .text {
+
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.card {
+
+}
+
+.card .text {
+
+}
+
+.testimonial {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.testimonial .text {
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.box .text {
+
+}
